@@ -1,8 +1,24 @@
-Hello Grader!
-Required Additional Functionality was added:
+## Required Additional Functionality
 
-    Change the title of the App from Movie App to include your own name, e.g., "Rodriquez Movies". -> changed to RindelloBlazorFirstMovieApp
-    Add at least three (3) of your own favorite movies to the data. -> added on SeedData: Toy Story 3, Blade Runner and Titanic.
-    Change the movie listing title so that it does not say "Index", rather it says the something like "My Movies". -> Done!
-    Add the ability to select a year which filters the displayed movies on that year or newer to the search options. -> Done!
-    Improve the styling of the page by add padding to the form elements used for any type of input, i.e., input, select, textarea, etc. so that the text is not jambed up against the input element border. -> added general styles on site.css :)
+The following required enhancements were successfully implemented:
+
+- **Application Title**  
+  The application title was updated from *Movie App* to include my own name.  
+  New title: **RindelloBlazorFirstMovieApp**.
+
+- **Seed Data**  
+  At least three of my favorite movies were added to the initial seed data:
+  - *Toy Story 3*
+  - *Blade Runner*
+  - *Titanic*
+
+- **Movie Listing Title**  
+  The movie listing page title was changed from *Index* to **My Movies** for better clarity and user experience.
+
+- **Year Filter**  
+  A new filter option was added that allows the user to select a year.  
+  The movie list is filtered to show movies released in the selected year or newer.
+
+- **Styling Improvements**  
+  General styling improvements were made by adding padding to form elements (`input`, `select`, `textarea`, etc.) so that text is not pressed against the borders.  
+  These styles were added globally in `site.css`.
